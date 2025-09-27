@@ -1,0 +1,20 @@
+h1{
+    background-color: lightgreen;
+    padding: 7px;
+    border-radius: 7px;
+    width: 250px;
+    text-align: center;
+    
+}
+
+
+img{
+    border: 3px solid lightgreen;
+    border-radius: 178px;
+}
+
+a{
+    color:lightgreen;
+    text-decoration: none;
+    font-size:25px;
+}
